@@ -46,16 +46,24 @@ I'm **NekDev**, a 17-year-old developer from Greece. I build Discord bots, moder
 
 <div align="center">
 
-  <!-- Stats + Languages side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NekDevs&show_icons=true&hide_title=true&hide_border=true&bg_color=161B22&title_color=E6EDF3&text_color=E6EDF3&icon_color=3FB950&rank_icon=github&border_radius=6" width="49%" alt="NekDev GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekDevs&hide_border=true&bg_color=161B22&title_color=E6EDF3&text_color=E6EDF3&layout=compact&border_radius=6" width="49%" alt="NekDev Top Languages" />
+  <!-- Stats + Languages structured in a clean table -->
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=NekDevs&show_icons=true&hide_title=true&hide_border=true&bg_color=161B22&title_color=E6EDF3&text_color=E6EDF3&icon_color=3FB950&rank_icon=github&border_radius=6" alt="NekDev GitHub statistics" width="100%" />
+      </td>
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekDevs&hide_border=true&bg_color=161B22&title_color=E6EDF3&text_color=E6EDF3&layout=compact&border_radius=6" alt="NekDev Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
+  <br />
 
-  <!-- Full-width contribution graph matching GitHub's native green palette -->
+  <!-- Full-width contribution graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekDevs&bg_color=161B22&color=E6EDF3&line=3FB950&point=3FB950&area=true&area_color=26A641&hide_border=true&radius=6" width="100%" alt="NekDev GitHub contribution activity" />
 
-  <br/><br/>
+  <br /><br />
 
   <sub>Building useful things, one commit at a time.</sub>
 
