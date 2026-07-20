@@ -41,6 +41,7 @@ I'm **NekDev**, a 17-year-old developer from Greece. I build Discord bots, moder
 | Project | Description | Stack |
 |---|---|---|
 | **TopSpin** | A competitive tennis platform where players find opponents near their level, submit verified results, climb a rating ladder, and join organized tournaments. | Next.js, TypeScript, React, Node.js |
+| **Cyphr** | A privacy layer for Android messaging: encrypt text locally, send the ciphertext through any app, and decrypt on the other side. Features a custom keyboard for inline encryption, an accessibility overlay for auto-decryption, multi-profile identity management, and contact verification. | Kotlin, Jetpack Compose, Tink |
 
 ## GitHub Activity
 
