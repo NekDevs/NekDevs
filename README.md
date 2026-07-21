@@ -25,14 +25,15 @@ I'm **NekDev**, a 17-year-old developer from Greece. I build Discord bots, moder
 - Building reliable Discord bots and community features
 - Creating responsive websites with TypeScript, React, and Next.js
 - Founder of TopSpin, a competitive tennis platform
+- Building Cyphr, a privacy-first encrypted messaging layer for Android
 - Learning by turning ideas into polished, real projects
 
 ## Tech Stack
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,py,git,discordjs&theme=dark"
-    alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS, Python, Git, and Discord.js"
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,py,kotlin,androidstudio,git,discordjs&theme=dark"
+    alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS, Python, Kotlin, Android Studio, Git, and Discord.js"
   />
 </p>
 
@@ -41,7 +42,7 @@ I'm **NekDev**, a 17-year-old developer from Greece. I build Discord bots, moder
 | Project | Description | Stack |
 |---|---|---|
 | **TopSpin** | A competitive tennis platform where players find opponents near their level, submit verified results, climb a rating ladder, and join organized tournaments. | Next.js, TypeScript, React, Node.js |
-| **Cyphr** | A privacy layer for Android messaging: encrypt text locally, send the ciphertext through any app, and decrypt on the other side. Features a custom keyboard for inline encryption, an accessibility overlay for auto-decryption, multi-profile identity management, and contact verification. | Kotlin, Jetpack Compose, Tink |
+| **Cyphr** 🔒 | A privacy layer for Android messaging: encrypt text locally, send the ciphertext through any app, and decrypt on the other side. Features a custom keyboard for inline encryption, an accessibility overlay for auto-decryption, multi-profile identity management, and contact verification. | Kotlin, Jetpack Compose, Tink |
 
 ## GitHub Activity
 
