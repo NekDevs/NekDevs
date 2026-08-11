@@ -43,7 +43,7 @@ I'm **NekDev**, a 17-year-old developer from Greece. I build Discord bots, moder
 |---|---|---|
 | **TopSpin** | A competitive tennis platform where players find opponents near their level, submit verified results, climb a rating ladder, and join organized tournaments. | Next.js, TypeScript, React, Node.js |
 | **Cyphr**  | A privacy layer for Android messaging: encrypt text locally, send the ciphertext through any app, and decrypt on the other side. Features a custom keyboard for inline encryption, an accessibility overlay for auto-decryption, multi-profile identity management, and contact verification. | Kotlin, Jetpack Compose, Tink |
-| **AnomiBot**  | AAnomiBot — a community-built marketplace for Anomic players. Create shops, list items with live market prices, trade with dual-button confirmation, build reputation through vouches, and stay safe with scammer warnings. Made by the community, for the community. | Discord.js, Node.js |
+| **AnomiBot**  | AnomiBot — a community-built marketplace for Anomic players. Create shops, list items with live market prices, trade with dual-button confirmation, build reputation through vouches, and stay safe with scammer warnings. Made by the community, for the community. | Discord.js, Node.js |
 
 
 ## GitHub Activity
