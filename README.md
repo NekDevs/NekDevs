@@ -3,20 +3,20 @@
 <p align="center">
   <strong>17-year-old Developer · Discord Bot Developer · Web Developer · Greece 🇬🇷</strong>
 </p>
-
 <p align="center">
+  <a href="https://www.neks.dev/">
+    <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://discord.com/users/323374329918259210">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://x.com/NekDevs">
-    <img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://github.com/NekDevs">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
 
 ## About Me
 
