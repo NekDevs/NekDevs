@@ -22,11 +22,10 @@
 
 I'm **NekDev**, a 17-year-old developer from Greece. I build Discord bots, modern web applications, and useful digital tools.
 
-- Building reliable Discord bots and community features
-- Creating responsive websites with TypeScript, React, and Next.js
+- Founder of RoFund — marketplace connecting Roblox game devs with investors
 - Founder of TopSpin, a competitive tennis platform
-- Building Cyphr, a privacy-first encrypted messaging layer for Android
-- Learning by turning ideas into polished, real projects
+- Building Cyphr, a privacy-first encrypted messaging app for Android
+- TypeScript, React, Next.js — Discord bots to full-stack web
 
 ## Tech Stack
 
@@ -42,6 +41,7 @@ I'm **NekDev**, a 17-year-old developer from Greece. I build Discord bots, moder
 | Project | Description | Stack |
 |---|---|---|
 | **TopSpin** | A competitive tennis platform where players find opponents near their level, submit verified results, climb a rating ladder, and join organized tournaments. | Next.js, TypeScript, React, Node.js |
+| **RoFund**  | RoFund — a directory where Roblox devs list their games for investors, with real stats and verified ownership. | Next.js, Roblox API, PostgreSQL |
 | **Cyphr**  | A privacy layer for Android messaging: encrypt text locally, send the ciphertext through any app, and decrypt on the other side. Features a custom keyboard for inline encryption, an accessibility overlay for auto-decryption, multi-profile identity management, and contact verification. | Kotlin, Jetpack Compose, Tink |
 | **AnomiBot**  | AnomiBot — a community-built marketplace for Anomic players. Create shops, list items with live market prices, trade with dual-button confirmation, build reputation through vouches, and stay safe with scammer warnings. | Discord.js, Node.js |
 
